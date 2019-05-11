@@ -4,3 +4,9 @@
 # Global files
 !.gitignore
 !README.md
+
+# Projects files
+!WNOS.sln
+!WNOS.vcxproj
+!WNOS.vcxproj.filters
+!WNOS.vcxproj.user
