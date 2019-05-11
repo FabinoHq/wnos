@@ -10,3 +10,6 @@
 !WNOS.vcxproj
 !WNOS.vcxproj.filters
 !WNOS.vcxproj.user
+
+# Sources files
+!main.cpp
